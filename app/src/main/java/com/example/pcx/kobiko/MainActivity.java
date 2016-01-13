@@ -12,5 +12,7 @@ public class MainActivity extends ActionBarActivity {
 
         int i = 0;
         int c = 2;
+        int g =90;
+        String s = "What";
     }
 }
