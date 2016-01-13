@@ -12,5 +12,7 @@ public class MainActivity extends ActionBarActivity {
 
         int i = 0;
         int c = 2;
+        
+        String d = "sdaf";
     }
 }
