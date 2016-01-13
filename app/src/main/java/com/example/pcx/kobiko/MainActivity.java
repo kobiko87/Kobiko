@@ -11,5 +11,6 @@ public class MainActivity extends ActionBarActivity {
         setContentView(R.layout.activity_main);
 
         int i = 0;
+        int c = 2;
     }
 }
